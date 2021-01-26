@@ -1,11 +1,11 @@
 import React from "react";
 import "./App.css";
-const {
-  randomQuote,
-  authorQuotes,
-  getQuotes,
-  searchQuotes,
-} = require("quotegarden");
+// const {
+//   randomQuote,
+//   authorQuotes,
+//   getQuotes,
+//   searchQuotes,
+// } = require("quotegarden");
 
 class App extends React.Component {
   state = {
