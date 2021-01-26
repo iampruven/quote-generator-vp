@@ -1,3 +1,5 @@
+# Random quote generator learning exercise
+
 <!-- TABLE OF CONTENTS -->
 
 ## Table of Contents
@@ -7,7 +9,7 @@
 - [Features](#features)
 - [How to use](#how-to-use)
 - [Contact](#contact)
-- [Acknowledgements](#acknowledgements)
+
 
 <!-- OVERVIEW -->
 
@@ -23,7 +25,8 @@ Introduce your projects by taking a screenshot or a gif. Try to tell visitors a 
     - Great learning experience
 - What have you learned/improved? 
     - working with third party APIs
-- Your wisdom? :)
+- How to improve the project? 
+    - work on my own CSS art
 
 ### Built With
 
@@ -35,6 +38,8 @@ Introduce your projects by taking a screenshot or a gif. Try to tell visitors a 
 ## Features
 
 <!-- List the features of your application or follow the template. Don't share the figma file here :) -->
+- View different quotes
+- View all quotes by author
 
 This application/site was created as a submission to a [DevChallenges](https://devchallenges.io/challenges) challenge. The [challenge](https://devchallenges.io/challenges/8Y3J4ucAMQpSnYTwwWW8) was to build an application to complete the given user stories.
 
@@ -57,13 +62,6 @@ $ npm i quotegarden
 $ npm start
 ```
 
-## Acknowledgements
-
-<!-- This section should list any articles or add-ons/plugins that helps you to complete the project. This is optional but it will help you in the future. For example: -->
-
-- [Steps to replicate a design with only HTML and CSS](https://devchallenges-blogs.web.app/how-to-replicate-design/)
-- [Node.js](https://nodejs.org/)
-- [Marked - a markdown parser](https://github.com/chjj/marked)
 
 ## Contact
 
